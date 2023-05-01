@@ -1,3 +1,6 @@
+# GuessMe
+nextjs로 만드는 익명 나를맞춰봐 서비스
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
